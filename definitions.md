@@ -1,3 +1,7 @@
+---
+title: Definitions
+---
+
 ## Quality
 
 [ISO 9000](https://efrcertification.com/Ref/ISO+9000-2005.pdf):
