@@ -2,26 +2,81 @@
 title: "Books"
 ---
 
-- Taylor: https://www.amazon.com/Principles-Scientific-Management-Frederick-Taylor/dp/1897363893
-- Shewhart: https://www.amazon.com/gp/product/B00A735MMG
-- Deming: https://www.amazon.com/gp/product/B08BT5PK8V/
-- Deming #2: https://www.amazon.com/gp/product/B08FZLVM1D
-- Drucker: https://www.amazon.com/gp/product/B000FC12PK
-- Detmer: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
-- Sapolsky: https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
-- Akoff: https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342
-- Scholtes: https://www.amazon.com/dp/B086YXTTYP/ref=docs-os-doi_0
-- De Bono: https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/
-- Taleb: https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
-- Simon Sinek: https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8
-- Robert Axelrod: https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
-- Richard Dawkins: https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
-- Simon Sinek: https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ
-- Daniel Pink: https://www.amazon.com/gp/product/B0033TI4BW
-- Britt Frank: https://www.amazon.com/gp/product/B097B3BHL6
-- Roni Reiter-Palmon: https://www.amazon.com/gp/product/B0779BBZ8F/
-- Jerry Z. Muller: https://www.amazon.com/gp/product/B07K458MZG/
-- Peter M. Senge: [The Fifth Discipline: The art and practice of the learning organization](https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B003ELY7OW/)
+## Statistical Method from the Viewpoint of Quality Control
+
+https://www.amazon.com/gp/product/B00A735MMG
+
+## The New Economics for Industry, Government, Education
+
+https://www.amazon.com/gp/product/B08BT5PK8V/
+
+## The New Economics for Industry, Government, Education
+
+https://www.amazon.com/gp/product/B08BT5PK8V/
+
+## Out of the Crisis
+
+https://www.amazon.com/gp/product/B08FZLVM1D
+
+## MANAGEMENT CHALLENGES for the 21st Century
+
+https://www.amazon.com/gp/product/B000FC12PK
+
+## Goldratt's Theory of Constraints: a Systems Approach to Continuous Improvement
+
+https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
+
+## Behave: The Biology of Humans at Our Best and Worst
+
+https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
+
+## Ackoff's Best: His Classic Writings on Management
+
+https://www.amazon.com/Ackoffs-Best-Classic-Writings-Management/dp/0471316342
+
+## Lateral Thinking: Creativity Step by Step
+
+https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/
+
+## The Black Swan: Second Edition: The Impact of the Highly Improbable
+
+https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X
+
+## Leaders Eat Last: Why Some Teams Pull Together and Others Don't
+
+https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8
+
+## The Evolution of Cooperation
+
+https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640
+
+## The Selfish Gene
+
+https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
+
+## The Infinite Game
+
+https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ
+
+## Drive: The Surprising Truth About What Motivates Us
+
+https://www.amazon.com/gp/product/B0033TI4BW
+
+## The Science of Stuck: Breaking Through Inertia to Find Your Path Forward
+
+https://www.amazon.com/gp/product/B097B3BHL6
+
+## Team Creativity and Innovation
+
+https://www.amazon.com/gp/product/B0779BBZ8F/
+
+## The Tyranny of Metrics
+
+https://www.amazon.com/gp/product/B07K458MZG/
+
+## The Fifth Discipline: The art and practice of the learning organization
+
+https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B003ELY7OW/
 
 ## Noestimates
 
