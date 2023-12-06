@@ -1,4 +1,6 @@
-# Books every manager must read
+---
+title: "Books"
+---
 
 - Taylor: https://www.amazon.com/Principles-Scientific-Management-Frederick-Taylor/dp/1897363893
 - Shewhart: https://www.amazon.com/gp/product/B00A735MMG
