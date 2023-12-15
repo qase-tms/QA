@@ -20,7 +20,6 @@ Misinterpreting data can also lead to poor decision-making about where to alloca
 Frequent and unnecessary changes in response to perceived problems (that are actually common variations) can destabilize the testing process. This instability can lead to a lack of confidence in the testing process itself, both from the QA team and from other stakeholders.
 
 Constantly responding to what are perceived as issues (but are actually normal variations) can be demoralizing for the team. It might create a sense of chasing endless problems, leading to burnout or reduced job satisfaction.
-
 ### The New Economics for Industry, Government, Education
 
 https://www.amazon.com/gp/product/B08BT5PK8V/
