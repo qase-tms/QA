@@ -10,10 +10,6 @@ https://www.amazon.com/gp/product/B00A735MMG
 
 https://www.amazon.com/gp/product/B08BT5PK8V/
 
-### The New Economics for Industry, Government, Education
-
-https://www.amazon.com/gp/product/B08BT5PK8V/
-
 ### Out of the Crisis
 
 https://www.amazon.com/gp/product/B08FZLVM1D
