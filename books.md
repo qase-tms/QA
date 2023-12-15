@@ -4,7 +4,22 @@ title: "Books"
 
 ### Statistical Method from the Viewpoint of Quality Control
 
-https://www.amazon.com/gp/product/B00A735MMG
+**Author**: Walter A. Shewhart
+**Link**: https://www.amazon.com/gp/product/B00A735MMG
+
+Shewhart's distinction between assignable variation and common cause variation is crucial in software testing. Assignable variation in software might be bugs or errors introduced by a specific change in the code, while common cause variation could be inherent complexity or challenges in the software development environment.
+
+If a QA engineer misinterprets the normal variability in test results (such as minor fluctuations in performance metrics) as a sign of a significant problem, they might unnecessarily adjust or overhaul stable processes. This over-correction can disrupt a well-functioning system, leading to wasted resources and potentially introducing new issues.
+
+If a QA engineer mistakes common variation in the system's behavior for an assignable bug, they might spend excessive time and resources trying to fix something that is actually a normal behavior of the system, leading to inefficient use of time and possibly causing frustration in the team.
+
+If a common variation is misinterpreted as an assignable cause, a QA engineer might implement specific fixes or patches that don't address the underlying systemic issue. This could lead to recurring problems, as the true cause is never addressed.
+
+Misinterpreting data can also lead to poor decision-making about where to allocate resources. For instance, an engineer might focus on optimizing a part of the software that is actually performing within acceptable limits, while neglecting areas that require more attention.
+
+Frequent and unnecessary changes in response to perceived problems (that are actually common variations) can destabilize the testing process. This instability can lead to a lack of confidence in the testing process itself, both from the QA team and from other stakeholders.
+
+Constantly responding to what are perceived as issues (but are actually normal variations) can be demoralizing for the team. It might create a sense of chasing endless problems, leading to burnout or reduced job satisfaction.
 
 ### The New Economics for Industry, Government, Education
 
