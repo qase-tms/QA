@@ -5,7 +5,8 @@ title: "Books"
 ### Statistical Method from the Viewpoint of Quality Control
 
 **Author**: Walter A. Shewhart
-**Link**: https://www.amazon.com/gp/product/B00A735MMG
+
+**Link**: [https://www.amazon.com/gp/product/b00a735mmg](https://www.amazon.com/gp/product/b00a735mmg)
 
 Shewhart's distinction between assignable variation and common cause variation is crucial in software testing. Assignable variation in software might be bugs or errors introduced by a specific change in the code, while common cause variation could be inherent complexity or challenges in the software development environment.
 
@@ -21,6 +22,11 @@ Frequent and unnecessary changes in response to perceived problems (that are act
 
 Constantly responding to what are perceived as issues (but are actually normal variations) can be demoralizing for the team. It might create a sense of chasing endless problems, leading to burnout or reduced job satisfaction.
 ### The New Economics for Industry, Government, Education
+
+**author**: walter a. shewhart
+
+**link**: https://www.amazon.com/gp/product/b00a735mmg
+
 
 https://www.amazon.com/gp/product/B08BT5PK8V/
 
