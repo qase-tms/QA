@@ -23,12 +23,25 @@ Frequent and unnecessary changes in response to perceived problems (that are act
 Constantly responding to what are perceived as issues (but are actually normal variations) can be demoralizing for the team. It might create a sense of chasing endless problems, leading to burnout or reduced job satisfaction.
 ### The New Economics for Industry, Government, Education
 
-**author**: walter a. shewhart
+**Author**:  W. Edwards Deming
 
-**link**: https://www.amazon.com/gp/product/b00a735mmg
+**Link**: [https://www.amazon.com/gp/product/B08BT5PK8V/](https://www.amazon.com/gp/product/B08BT5PK8V/)
 
+Deming is often referred to as "The Father of Quality" due to his revolutionary contributions to the field of quality assurance and management. His influence is pervasive in both the theoretical and practical aspects of quality in manufacturing, service industries, and beyond. Deming coined the Total Quality Management (TQM) — a structured approach to overall organizational management, the focus of the process is to improve the quality of an organization's outputs, including goods and services, through the continual improvement of internal practices.
 
-https://www.amazon.com/gp/product/B08BT5PK8V/
+He proceeded the works of Shewhart regarding variation, but added much more to the quality management side.
+
+If QA folks don't read and understand Deming's work, particularly the part about the importance of long-term strategic planning and continuous improvement, they might prioritize immediate fixes or short-term goals at the expense of more sustainable, long-term quality improvements. This approach can lead to recurring problems and lower overall product quality.
+
+Deming advocated for improving processes rather than relying heavily on inspection. QA engineers unfamiliar with this might [focus too much on finding and fixing defects after they occur, rather than preventing them through better processes](https://qase.io/blog/qa-qc-and-quality/). This reactive approach is less efficient and effective than building quality into the process from the start.
+
+Deming's System of Profound Knowledge promotes understanding the organization as a system. Without this perspective, managers may fail to see how different parts of the system affect each other, [potentially leading to ineffective solutions that don't address systemic issues](https://qase.io/blog/performance-reviews-and-quality/).
+
+Deming warned against management by objectives without understanding the processes. QA engineers might focus on meeting numerical targets (like a certain number of tests or bug fixes) without considering whether these activities actually improve quality.
+
+Deming’s teachings include the importance of a culture that continually strives for better quality. Without this mindset, QA practices might become stagnant, failing to evolve with changing technologies and methods.
+
+Deming encouraged breaking down barriers between departments. QA engineers not following this might work in isolation from other departments, leading to inefficiencies and a lack of shared knowledge and goals.
 
 ### Out of the Crisis
 
