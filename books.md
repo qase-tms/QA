@@ -43,13 +43,17 @@ Deming’s teachings include the importance of a culture that continually strive
 
 Deming encouraged breaking down barriers between departments. QA engineers not following this might work in isolation from other departments, leading to inefficiencies and a lack of shared knowledge and goals.
 
-### Out of the Crisis
-
-https://www.amazon.com/gp/product/B08FZLVM1D
-
 ### MANAGEMENT CHALLENGES for the 21st Century
 
-https://www.amazon.com/gp/product/B000FC12PK
+**Author**: Peter F. Drucker
+
+**Link**: [https://www.amazon.com/gp/product/B000FC12PK](https://www.amazon.com/gp/product/B000FC12PK)
+
+In the realm of QA, the emphasis on knowledge work underscores the importance of skilled QA professionals who are not just testers, but also [critical thinkers and problem solvers](https://qase.io/blog/generalist-vs-specialist/). Understanding and managing these knowledge workers effectively is crucial for the success of QA teams.
+
+Drucker suggested to move towards more networked and less hierarchical organizational structures which means cross-functional collaboration of QA with development, operations and other teams. QA teams working in isolation may develop blind spots regarding how users actually interact with the product. Cross-functional collaboration helps provide broader insights, leading to more user-centric testing.
+
+Drucker's focus on the impact of technology aligns well with the constantly evolving landscape of software development and testing. QA teams must be adaptive, continuously learning new tools and approaches (like automation, AI in testing) to stay effective.
 
 ### Goldratt's Theory of Constraints: a Systems Approach to Continuous Improvement
 
