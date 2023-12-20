@@ -59,7 +59,7 @@ Drucker's focus on the impact of technology aligns well with the constantly evol
 
 **Author**: Eliyahu M. Goldratt
 
-**Link**: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
+**Link**: [https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/](https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/)
 
 Goldratt's seminal work introduces and elaborates on the Theory of Constraints (TOC), a management paradigm that seeks to identify and manage the most limiting factor (i.e., constraint) in a process or system. TOC states that the whole system's capacity is limited by its constraints.
 
