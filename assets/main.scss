@@ -25,3 +25,11 @@ blockquote {
 .site-title, .site-title:visited, .site-nav .page-link {
 	color: white;
 }
+
+ul {
+	list-style: none;
+	margin-left: 0;
+}
+ul li {
+	padding: 10px 0;
+}
