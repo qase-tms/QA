@@ -57,7 +57,21 @@ Drucker's focus on the impact of technology aligns well with the constantly evol
 
 ### Goldratt's Theory of Constraints: a Systems Approach to Continuous Improvement
 
-https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
+**Author**: Eliyahu M. Goldratt
+
+**Link**: https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/B001DORDE8/
+
+Goldratt's seminal work introduces and elaborates on the Theory of Constraints (TOC), a management paradigm that seeks to identify and manage the most limiting factor (i.e., constraint) in a process or system. TOC states that the whole system's capacity is limited by its constraints.
+
+This means that if the organisational is structured in such a such a way that the QA specialists are in a separate department, the whole department might be a constraint, leading to bigger queues, worse quality and the overall system slowness.
+
+As an approach, TOC helps finding the best opportunities for improvement in any process, and QA teams can expend efforts on optimizing parts of the process that are actual bottlenecks, leading to maximum overall improvements. The greatest gains often come from addressing the system's primary constraint.
+
+Without identifying and focusing on constraints, resources (time, personnel, tools) might be misallocated. This could result in spending too much on areas that don't significantly improve quality or efficiency.
+
+If constraints within the QA process are not identified and managed, it could lead to decreased product quality. For instance, if the constraint is inadequate test coverage due to limited resources, critical bugs might be missed, affecting the end product.
+
+TOC also highlights the need for cross-functional collaboration to address constraints. Lack of such collaboration in QA can lead to misunderstandings and inefficiencies, especially in environments where QA needs to work closely with development, operations, and other departments.
 
 ### Behave: The Biology of Humans at Our Best and Worst
 
