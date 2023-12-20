@@ -4,7 +4,9 @@ This is a community dedicated to the art and science of Quality Assurance, Quali
 
 Structure of the resources:
 
-- [Books](books.md) on Quality Assurance, Quality Management, Testing and related topics
-- [Definitions](definitions.md) — something we must always start with
-- [Videos](videos.md) from various influential experts
-- [Frameworks and tools](tools.md) which help in daily tester's life
+- [Books](books.md) on Quality Assurance, Quality Management, Testing and related topics.
+- [Definitions](definitions.md) — something we must always start with.
+- [Videos](videos.md) from various influential experts.
+- [Frameworks and tools](tools.md) which help in daily tester's life.
+
+<img src="https://d36r73waboa44k.cloudfront.net/2023/05/vsharovatov_this_face_in_marble_b14a01f0-3348-4dbd-9574-5f25984cb9bb.png" width=300>
