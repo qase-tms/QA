@@ -26,16 +26,16 @@ blockquote {
 	background: #2F2D3C;
 }
 
+.site-title, .site-title:visited, .site-nav .page-link {
+	color: white;
+}
+
 .site-title {
 	display: block;
 	width: 80px;
 	background: url(qase-logo.svg) 0 50% no-repeat;
 	padding-left: 59px;
 	color: gray;
-}
-
-.site-title, .site-title:visited, .site-nav .page-link {
-	color: white;
 }
 
 ul {
