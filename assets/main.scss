@@ -22,14 +22,15 @@ blockquote {
 .site-header {
 	background: #2F2D3C;
 }
-.site-title::before {
-	width: 50px;
-	height: 30px;
-	position: relative;
-	left: -50px;
-	background: red;
+
+.site-title {
 	display: block;
+	width: 80px;
+	background: url(assets/qase-logo.svg) 0 50% no-repeat;
+	padding-left: 67px;
+	margin-left: -70px;
 }
+
 .site-title, .site-title:visited, .site-nav .page-link {
 	color: white;
 }
