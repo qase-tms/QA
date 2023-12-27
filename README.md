@@ -1,4 +1,4 @@
-We at Qase are all Quality Enthusiasts: we believe our world deserves high quality products and services.
+### We at Qase are all Quality Enthusiasts: we believe our world deserves high quality products and services.
 
 This is a community dedicated to the art and science of Quality Assurance, Quality Management and Testing. Whether you're looking to sharpen your skills or just explore the fascinating world of QA/QM/Testing, you're in the right place. Let's collaborate, learn, and elevate the standards of software quality together!
 
