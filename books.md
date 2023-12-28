@@ -212,4 +212,8 @@ https://www.amazon.com/Human-Computer-Interaction-Handbook-Fundamentals-ebook/dp
 
 https://www.amazon.co.uk/dp/1119805317
 
+### The Principles of Product Development Flow: Second Generation Lean Product Development
 
+**Author**: Donald G. Reinertsen
+
+**Link**: [https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
