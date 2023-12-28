@@ -114,7 +114,15 @@ Without Ackoff’s customer-centric focus, QA engineers might focus solely on te
 
 ### Lateral Thinking: Creativity Step by Step
 
-https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/
+**Author**: Edward De Bono
+
+**Link**: [https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/](https://www.amazon.com/Lateral-Thinking-Creativity-Step-ebook/dp/B003V1WTLI/)
+
+This book is a pioneering work in the field of creative thinking. The book introduces the concept of lateral thinking (also often called creative thinking), which represents a method of problem-solving that involves approaching problems from new and unconventional angles, rather than through traditional, linear or logical means.
+
+A lack of lateral thinking can also lead to a rigid approach to testing where a QA professional might stick to conventional test scenarios and miss out on identifying unique or less obvious bugs. Creativity is a significant asset in QA for designing comprehensive test cases.
+
+The probability to find a new bug will be less if every time you test the software you use the same approach.
 
 ### The Black Swan: Second Edition: The Impact of the Highly Improbable
 
