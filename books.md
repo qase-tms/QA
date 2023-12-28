@@ -102,7 +102,7 @@ The main idea behind Systems Theory is the understanding of a system as a comple
 
 Ackoff viewed quality not just as a series of isolated processes or steps within an organization but as an outcome of the entire system. He argued that quality issues often stem from systemic problems rather than just faults in specific components or processes. Without the systems thinking approach, a QA engineer might focus too narrowly on specific bugs or test cases, potentially missing how these issues fit into the broader system. This could lead to solutions that don't address underlying systemic problems.
 
-He advocated for understanding an organization as an interrelated system where quality is not just the responsibility of a specific department but an outcome of the entire system's performance. This perspective aligns with modern QM approaches that integrate quality into every aspect of an organization.
+He advocated for understanding an organization as an interrelated system where quality is not just the responsibility of a specific department but an outcome of the entire system's performance. This perspective aligns with modern QM approaches that integrate quality into every aspect of an organization. Without the emphasis on holistic problem-solving and participative management, a QA engineer might work in isolation rather than collaboratively with cross-functional teams. This can lead to a lack of understanding of the broader context of the project and less effective QA processes.
 
 Ackoff's critique of reductionist problem-solving methods in traditional management can also be applied to quality issues. He promotes a holistic approach, which is crucial in identifying and addressing the [causes of quality problems rather than just treating symptoms](https://qase.io/blog/5-whys/).
 
@@ -110,14 +110,7 @@ Ackoff’s ideas about continuous learning and adaptation are key principles in 
 
 Ackoff’s critique of traditional metrics could be insightful for a QA engineer. Without this perspective, there might be an over-reliance on quantitative metrics like the number of tests passed or bugs found, which might not fully capture the quality and user experience of the product.
 
-Without Ackoff’s emphasis on holistic problem-solving and participative management, a QA engineer might work in isolation rather than collaboratively with cross-functional teams. This can lead to a lack of understanding of the broader context of the project and less effective QA processes.
-
 Without Ackoff’s customer-centric focus, QA engineers might focus solely on technical aspects of quality, potentially overlooking how users actually interact with and experience the product.
-
-Ackoff’s systems approach would encourage looking beyond immediate QA tasks to understand and contribute to wider organizational quality improvements. Without this perspective, opportunities for broader impact might be missed.
-
-
-
 
 ### Lateral Thinking: Creativity Step by Step
 
