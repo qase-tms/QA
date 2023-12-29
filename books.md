@@ -175,7 +175,15 @@ This book provides an excellent evolutionary and scientific background, compleme
 
 ### The Infinite Game
 
-https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ
+**Author**: Simon Sinek
+
+**Link**: [https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ](https://www.amazon.com/Infinite-Game-Businesses-Achieve-Long-lasting-ebook/dp/B07CV4YHWQ)
+
+Another good book from Simon Sinek, now expanding the concept of game theory into the realm of business and leadership. Drawing from the distinction between finite and infinite games originally proposed by James P. Carse, Sinek explores how this concept can be applied to business strategies and leadership practices.
+
+Sinek explains that in finite games, like sports, the players are known, the rules are fixed, and there is a clear endpoint. In contrast, infinite games, such as business or politics, have no clear rules or endpoints, and the players can change over time. The objective is not to win but to keep playing and sustain the game.
+
+The book criticizes the prevalence of short-term thinking in business, arguing that it can lead to unsustainable practices and the eventual demise of organizations. Sinek discusses how leaders can cultivate an environment that prioritizes long-term vision, innovation, and ethical practices, creating more resilient and adaptable organizations.
 
 ### Drive: The Surprising Truth About What Motivates Us
 
