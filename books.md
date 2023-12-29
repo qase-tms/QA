@@ -134,17 +134,9 @@ The book delves into the nature of unpredictable, high-impact events. These even
 
 A significant theme of the book is the critique of the reliance on scientific and mathematical models in finance and other areas, arguing that these models often fail to account for the possibility and impact of Black Swan events. It also discusses various human psychological biases that make people blind to the uncertainty and to the massive role of the rare event in historical affairs.
 
-In QA, predictive models might be used to identify potential areas of risk or to prioritize testing efforts. Taleb warns against the overreliance on historical data to predict future events.
-
-QA teams should not only test for common and known scenarios but also consider extreme or “edge” cases, even if they seem highly improbable
+In QA, predictive models might be used to identify potential areas of risk or to prioritize testing efforts. Taleb warns against the overreliance on historical data to predict future events: QA teams should not only test for common and known scenarios but also consider extreme or “edge” cases, even if they seem highly improbable.
 
 Taleb’s ideas support the value of exploratory testing in QA, where testers actively engage with the software in unscripted, often creative ways to discover unexpected or rare issues.
-
-QA teams must be aware that, no matter how comprehensive their tests are, there's always a possibility of unforeseen issues.
-
-A lack of awareness about the impact of highly improbable events might lead to complacency in risk management practices. QA teams may not develop robust strategies to mitigate the risks of unexpected system behaviors or bugs.
-The principles in the book suggest the value of exploratory, as opposed to purely scripted, testing. Without this perspective, QA might miss out on the benefits of a more open-ended, investigative approach to testing, which can uncover unexpected issues.
-
 
 
 ### Leaders Eat Last: Why Some Teams Pull Together and Others Don't
