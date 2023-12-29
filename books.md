@@ -141,7 +141,13 @@ Taleb’s ideas support the value of exploratory testing in QA, where testers ac
 
 ### Leaders Eat Last: Why Some Teams Pull Together and Others Don't
 
-https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8
+**Author**: Simon Sinek
+
+**Link**: [https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8](https://www.amazon.com/Leaders-Eat-Last-Together-Others-ebook/dp/B00DGZKQM8)
+
+Renowned for his work on leadership and organizational culture, Sinek in this book explores the fundamental behaviors and characteristics that foster successful, cohesive teams. Any work on quality is a team effort, and Sinek argues that leaders should create a protective circle around their teams, fostering a sense of security and belonging. This environment encourages team members to focus on facing external challenges and innovating, rather than expending energy on internal conflicts or politics.
+
+Without the understanding of building a supportive and trusting team environment, a QA manager might struggle with fostering effective team dynamics, leading to less efficient collaboration and potential conflicts.
 
 ### The Evolution of Cooperation
 
