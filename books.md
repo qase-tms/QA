@@ -155,7 +155,7 @@ Without the understanding of building a supportive and trusting team environment
 
 **Link**: [https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)
 
-The book explains the evolution of cooperation through an evolutionary lens, showing how cooperative strategies can evolve in a population. Axelrod uses the Prisoner's Dilemma, a standard example in game theory, as the framework for his study. The game illustrates how two individuals might not cooperate, even if it's in their best interest to do so. Axelrod's extensive research demonstrates the effectiveness of “Tit for Tat” strategy: where the individual cooperates on the first move and then mimics the opponent's previous move.
+The book explains how cooperation emerged through an evolutionary lens, showing how cooperative strategies can evolve in a population. Axelrod uses the Prisoner's Dilemma, a standard example in game theory, as the framework for his study. The game illustrates how two individuals might not cooperate, even if it's in their best interest to do so. Axelrod's extensive research demonstrates the effectiveness of “Tit for Tat” strategy: where the individual cooperates on the first move and then mimics the opponent's previous move.
 
 The core finding of Axelrod's work is how cooperation can emerge in a world of egoists without central authority. He demonstrates that “Tit for Tat” succeeds by being nice, retaliatory, forgiving, and clear.
 
@@ -163,7 +163,15 @@ The principles of effective cooperation and strategic interaction presented in t
 
 ### The Selfish Gene
 
-https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925
+**Author**: Richard Dawkins
+
+**Link**: [https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925)
+
+This book is a seminal work in the field of evolutionary biology. It popularizes the gene-centered view of evolution and introduces the concept of the 'selfish gene' as a method for explaining how natural selection operates.
+
+A significant part of the book explores altruistic behavior in animals. Dawkins explains such behaviors through the lens of genetic advantage, suggesting that genes which promote altruistic behavior can be favored by natural selection if they increase the overall chances of gene replication.
+
+This book provides an excellent evolutionary and scientific background, complementing Axelrod's 'The Evolution of Cooperation'.
 
 ### The Infinite Game
 
