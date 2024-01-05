@@ -187,7 +187,18 @@ The book criticizes the prevalence of short-term thinking in business, arguing t
 
 ### Drive: The Surprising Truth About What Motivates Us
 
-https://www.amazon.com/gp/product/B0033TI4BW
+**Author**: Daniel Pink
+
+**Link**: [https://www.amazon.com/gp/product/B0033TI4BW](https://www.amazon.com/gp/product/B0033TI4BW)
+
+This book is an examination of human motivation, particularly in the context of modern work. Pink challenges traditional notions about what drives us and presents a new framework for understanding motivation, supported by good amount of scientific research.
+
+Pink differentiates between extrinsic motivators (external rewards like money) and intrinsic motivators (internal desires like personal growth). He argues that while extrinsic rewards can be effective for straightforward tasks, they may be less effective, and even detrimental, for complex, creative tasks.
+
+Pink identifies three key elements of intrinsic motivation: Autonomy (the desire to direct our own lives), Mastery (the urge to get better at something that matters), and Purpose (the need to do what we do in the service of something larger than ourselves).
+
+
+
 
 ### The Science of Stuck: Breaking Through Inertia to Find Your Path Forward
 
