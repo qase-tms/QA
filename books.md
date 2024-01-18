@@ -197,20 +197,32 @@ Pink differentiates between extrinsic motivators (external rewards like money) a
 
 Pink identifies three key elements of intrinsic motivation: Autonomy (the desire to direct our own lives), Mastery (the urge to get better at something that matters), and Purpose (the need to do what we do in the service of something larger than ourselves).
 
+### The Tyranny of Metrics
 
+**Author**: Jerry Z. Muller
+
+**Link**: [https://www.amazon.com/Tyranny-Metrics-Jerry-Z-Muller/dp/0691174954](https://www.amazon.com/Tyranny-Metrics-Jerry-Z-Muller/dp/0691174954)
+
+Proceeding Ackoff's and complementing Ackoff's works, Muller critically examines the modern obsession with quantifying human performance across various sectors, including education, medicine, business, government, and philanthropy.
+
+Without reading this book and Ackoff's works, a QA engineer might rely too heavily on quantitative metrics (like bug counts or test coverage percentages) to measure success, potentially undervaluing subjective feedback on usability or customer experience, which are crucial for overall quality but may not be easily quantifiable.
+
+### Team Creativity and Innovation
+
+**Author**: Roni Reiter-Palmon
+
+**Link**: [https://www.amazon.com/gp/product/B07K458MZG/](https://www.amazon.com/gp/product/B07K458MZG/)
+
+based on current scientific research on creativity
+
+
+
+https://www.amazon.com/gp/product/B0779BBZ8F/
 
 
 ### The Science of Stuck: Breaking Through Inertia to Find Your Path Forward
 
 https://www.amazon.com/gp/product/B097B3BHL6
-
-### Team Creativity and Innovation
-
-https://www.amazon.com/gp/product/B0779BBZ8F/
-
-### The Tyranny of Metrics
-
-https://www.amazon.com/gp/product/B07K458MZG/
 
 ### The Fifth Discipline: The art and practice of the learning organization
 
