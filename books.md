@@ -2,6 +2,8 @@
 title: "Books"
 ---
 
+## Books related to Quality Management
+
 ### Statistical Method from the Viewpoint of Quality Control
 
 **Author**: Walter A. Shewhart
@@ -206,80 +208,4 @@ Pink identifies three key elements of intrinsic motivation: Autonomy (the desire
 Proceeding Ackoff's and complementing Ackoff's works, Muller critically examines the modern obsession with quantifying human performance across various sectors, including education, medicine, business, government, and philanthropy.
 
 Without reading this book and Ackoff's works, a QA engineer might rely too heavily on quantitative metrics (like bug counts or test coverage percentages) to measure success, potentially undervaluing subjective feedback on usability or customer experience, which are crucial for overall quality but may not be easily quantifiable.
-
-### Team Creativity and Innovation
-
-**Author**: Roni Reiter-Palmon
-
-**Link**: [https://www.amazon.com/gp/product/B07K458MZG/](https://www.amazon.com/gp/product/B07K458MZG/)
-
-based on current scientific research on creativity
-
-
-
-https://www.amazon.com/gp/product/B0779BBZ8F/
-
-
-### The Science of Stuck: Breaking Through Inertia to Find Your Path Forward
-
-https://www.amazon.com/gp/product/B097B3BHL6
-
-### The Fifth Discipline: The art and practice of the learning organization
-
-https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B003ELY7OW/
-
-### Noestimates
-
-http://noestimatesbook.com
-
-This book is a simple and straightforward guide to statistical approach to estimations.
-
-Good review of all the ways how estimations hurt your company and how you can avoid using them.
-
-### Theory of constraints
-
-https://www.amazon.com/Goldratts-Theory-Constraints-Continuous-Improvement/dp/0873893700/
-
-### Systems thinking
-
-https://www.amazon.com/Systems-Thinking-Other-Dangerous-Habits/dp/1638680027/
-
-### Environmental studies: Information ecology
-
-https://www.researchgate.net/profile/Eryomin-Alexey/publication/240515256_Eryomin_A_Information_ecology_-_A_viewpoint/links/02e7e52ab73c81fe3e000000/Eryomin-A-Information-ecology-A-viewpoint.pdf
-
-### Behave: The Biology of Humans at Our Best and Worst
-
-https://www.amazon.com/Behave-Biology-Humans-Best-Worst/dp/1594205078
-
-### High challenge, low threat
-
-https://www.amazon.com/High-Challenge-Low-Threat-Leaders/dp/190971786X
-
-### Introduction to psycholinguistics
-
-https://www.amazon.com/Introduction-Psycholinguistics-Understanding-Language-Science/dp/1405198621
-
-### Platform for change 
-
-https://www.amazon.com/Platform-Change-1st-Stafford-Beer-ebook/dp/B0C3XVYVK6
-
-### The Human Use Of Human Beings: Cybernetics And Society
-
-https://www.amazon.co.uk/Human-Use-Beings-Cybernetics-Society/dp/0306803208
-
-### Human Computer Interaction Handbook
-
-https://www.amazon.com/Human-Computer-Interaction-Handbook-Fundamentals-ebook/dp/B008NF001I/
-
-### Industrial and Organizational Psychology
-
-https://www.amazon.co.uk/dp/1119805317
-
-### The Principles of Product Development Flow: Second Generation Lean Product Development
-
-**Author**: Donald G. Reinertsen
-
-**Link**: [https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
-
 
