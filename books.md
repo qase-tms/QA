@@ -2,7 +2,21 @@
 title: "Books"
 ---
 
-## Books related to Quality Management
+## Books on Quality Control
+
+- http://developertesting.rocks/book/
+- https://www.manning.com/books/the-art-of-unit-testing-second-edition
+- https://www.manning.com/books/the-art-of-unit-testing-third-edition
+- http://xunitpatterns.com
+- https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124
+- https://www.amazon.com/Practitioners-Guide-Software-Test-Design/dp/158053791X
+- https://www.amazon.com/Software-Testing-Analysis-Principles-Techniques/dp/0471455938
+- https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962
+- https://www.amazon.com/Automated-Testing-Handbook-Linda-Hayes/dp/0970746504
+- https://leanpub.com/TheAWord
+
+
+## Books on Quality Management
 
 ### Statistical Method from the Viewpoint of Quality Control
 
