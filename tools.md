@@ -8,7 +8,7 @@ title: "Tools"
 
 Read the [full explanation](https://qase.io/blog/autoethnographic-research-and-testing/) of how autoethnographic research techniques overlap with testing and learn how to use these templates in your work.
 
----
+## Sketch Notes
 
 [Reimagining automation](https://qase-tms.github.io/QA/assets/reimagining-automation.pdf): Review this visual and written guide to explore the timeline of automation and learn how we’ll work alongside automation rather than be replaced by it.
 
